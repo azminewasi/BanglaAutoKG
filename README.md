@@ -10,7 +10,7 @@
   <img src="fig/BanglaAutoKG.png" width="1000"/>
 </p>
 
-## Architecture
+## Example Case Studies
 Example uses of *BanglaAutoKG*.
 
 <p align="center">
