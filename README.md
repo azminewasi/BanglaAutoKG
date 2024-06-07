@@ -26,7 +26,10 @@ Texts are available in `.\case-studies\` folder.
 ---
 
 ## Citation
-- **ACL** : `Azmine Toushik Wasi, Taki Hasan Rafi, Raima Islam, and Dong-Kyu Chae. 2024. BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 2100–2106, Torino, Italia. ELRA and ICCL.`
+- **ACL** : 
+```
+Azmine Toushik Wasi, Taki Hasan Rafi, Raima Islam, and Dong-Kyu Chae. 2024. BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 2100–2106, Torino, Italia. ELRA and ICCL.
+```
 - **BIBTEX** : 
 ```
 @inproceedings{wasi-etal-2024-banglaautokg-automatic,
